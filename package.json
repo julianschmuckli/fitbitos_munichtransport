@@ -1,0 +1,25 @@
+{
+  "fitbit": {
+    "appUUID": "9830f043-b9aa-4400-bd5f-618e9d96e23f",
+    "appType": "app",
+    "appDisplayName": "Munich Transport",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#e91e63",
+    "requestedPermissions": [
+      "access_internet",
+      "access_location"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Munich Transport"
+      },
+      "de": {
+        "name": "München Transport"
+      }
+    }
+  }
+}
